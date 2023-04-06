@@ -20,11 +20,12 @@
 小角度切入抗战历史纵横面，倾听一个个生命浮沉的微茫声息。
 
 ---
-更多见[抗日战争纪念网](https://www.krzzjn.com/)
+更多见[抗战亲历者记忆库](www.nobody.org.cn)和[抗日战争纪念网](https://www.krzzjn.com/)。
 
+电子书下载
 
-[NOBODY EPUB](https://github.com/nokocin/gitbookNobody/raw/main/release/nobody.epub) 
+[NOBODY EPUB](https://github.com/nokocin/nobody/raw/gh-pages/releases/nobody.epub) 
 
-[NOBODY MOBI](https://github.com/nokocin/gitbookNobody/raw/main/release/nobody.mobi)
+[NOBODY MOBI](https://github.com/nokocin/nobody/raw/gh-pages/releases/nobody.mobi)
 
-[NOBODY PDF](https://github.com/nokocin/gitbookNobody/raw/main/release/nobody.pdf)
+[NOBODY PDF](https://github.com/nokocin/nobody/raw/gh-pages/releases/nobody.pdf)
