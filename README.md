@@ -24,7 +24,7 @@
 
 电子书下载
 
-[NOBODY EPUB](https://github.com/nokocin/nobody/raw/gh-pages/releases/nobody.epub) 
+[NOBODY EPUB](https://github.com/nokocin/nobody/raw/gh-pages/releases/nobody.epub)
 
 [NOBODY MOBI](https://github.com/nokocin/nobody/raw/gh-pages/releases/nobody.mobi)
 
